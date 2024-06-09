@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @JulianC18
+- 😄 Pronouns:He/him They/them
 - 👀 I’m interested in: Software Development 
 - 🌱 I’m currently learning: Java, Python
+- 🍎 University: Pennsylvania State University Main Campus
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns:He/him They/them
+
 - ⚡ Fun fact: ...
 
 <!---
