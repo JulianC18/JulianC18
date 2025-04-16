@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @JulianC18
 - 😄 Pronouns:He/him They/them
-- 👀 I’m interested in: Software Development 
-- 🌱 I’m currently learning: Java, Python
+- 👀 I’m interested in: Software Development
+- 🧮 Langauges: Java, Python, MySQL,
+- 🖥️  Networking Skills: IP Subnetting, Network Analysis
+- 🌱 I’m currently learning: React, JavaScript, C, C++, Swift, PhP
 - 🍎 University: Pennsylvania State University Main Campus
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+- 💞️ I’m looking to collaborate on. 
+- 📫 How to reach me : juliancempa7@gmail.com
 - ⚡ Fun fact: ...
 
 <!---
