@@ -1,15 +1,21 @@
-- 👋 Hi, I’m @JulianC18
-- 😄 Pronouns:He/him They/them
-- 👀 I’m interested in: Software Development
-- 🧮 Langauges: Java, Python, MySQL,
-- 🖥️  Networking Skills: IP Subnetting, Network Analysis
-- 🌱 I’m currently learning: React, JavaScript, C, C++, Swift, PhP
-- 🍎 University: Pennsylvania State University Main Campus
-- 💞️ I’m looking to collaborate on. 
-- 📫 How to reach me : juliancempa7@gmail.com
-- ⚡ Fun fact: ...
+# 💫 About Me:
+# 👋 Hi, I'm Julian (@JulianC18)<br><br>Third-year Information Sciences & Technology student at Penn State with a focus on Software Development. I’m an enthusiast for clean, performant systems—whether that’s my desktop environment or my infrastructure.<br><br>### 🔧 Tech Stack & Environment<br>*   **Languages:** Python, Java, C/C++, Swift, PHP, SQL<br>*   **OS/Desktop:** Arch Linux running Hyprland (plus a bit of macOS power-user tooling)<br>*   **Infrastructure:** A Proxmox-based homelab running a suite of self-hosted services and containers<br>*   **Hardware:** Bambu P1S + AMS 2 Pro for custom 3D printing projects<br><br>### 🌱 Currently Exploring<br>*   **Cybersecurity:** Working toward CCNA and ISC2 CC certifications with an interest in offensive security and pentesting.<br>*   **Development:** Building a Vocabulary Learning iOS app utilizing WidgetKit and expanding my knowledge of React/JS.<br>*   **Infrastructure:** Constantly refining my self-hosting architecture, networking, and security posture.<br><br>### 💬 Let's Connect<br>I'm always down to talk about homelabbing, Linux customization, dotfiles, 3D printing, or even Korean culture and motorsports.<br><br>📫 **Reach me:** [juliancempa7@gmail.com](mailto:juliancempa7@gmail.com)
 
-<!---
-JulianC18/JulianC18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mxneagle33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Julian Cempa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DevMinseok) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=JulianC18&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=JulianC18&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=JulianC18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+[![](https://komarev.com/ghpvc/?username=JulianC18&icon=2&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
